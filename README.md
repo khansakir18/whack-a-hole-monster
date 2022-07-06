@@ -11,6 +11,6 @@ When the Game Start, by clicking on the title, a Mole will "Pop" from a random H
 
 This was made with only pure **vanilla JavaScript**.  
   
-If you are interested in working together, feel free to contact me! <mitri.dvp@gmail.com>  
+If you are interested in working together, feel free to contact me! sakirmavm@gmail.com>  
 
 *(07/19/2019) *didn't had a Github account back then, this was the last modified date*    
